@@ -2,8 +2,6 @@
 
 ## Live @ 
 
-<img src="src/assets/images/PortfolioSite.png">
-
 - - - -
 
 ## Layout
