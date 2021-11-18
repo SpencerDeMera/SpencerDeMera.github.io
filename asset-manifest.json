@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.772434b8.chunk.css",
-    "main.js": "/static/js/main.6cedc683.chunk.js",
-    "main.js.map": "/static/js/main.6cedc683.chunk.js.map",
+    "main.js": "/static/js/main.05cd7366.chunk.js",
+    "main.js.map": "/static/js/main.05cd7366.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.206f4bf3.js",
     "runtime-main.js.map": "/static/js/runtime-main.206f4bf3.js.map",
     "static/js/2.8704cde5.chunk.js": "/static/js/2.8704cde5.chunk.js",
@@ -14,12 +14,12 @@
     "static/media/SpencerPortrait(2).7d82fd0d.jpg": "/static/media/SpencerPortrait(2).7d82fd0d.jpg",
     "static/media/StormyWeather.93db38f3.png": "/static/media/StormyWeather.93db38f3.png",
     "static/media/splashImage.2d9717b0.png": "/static/media/splashImage.2d9717b0.png",
-    "static/media/ttSite.00654378.png": "/static/media/ttSite.00654378.png"
+    "static/media/ttSite.51ac0a94.png": "/static/media/ttSite.51ac0a94.png"
   },
   "entrypoints": [
     "static/js/runtime-main.206f4bf3.js",
     "static/js/2.8704cde5.chunk.js",
     "static/css/main.772434b8.chunk.css",
-    "static/js/main.6cedc683.chunk.js"
+    "static/js/main.05cd7366.chunk.js"
   ]
 }
