@@ -2,7 +2,7 @@
 
 ## Live @ https://spencerdemera.github.io/
 
-<img src="src/assets/images/PortfolioSite.png">
+<img src="static/media/PersonalPortfolio.16621080.png">
 
 - - - -
 
