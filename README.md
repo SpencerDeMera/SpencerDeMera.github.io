@@ -13,7 +13,7 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
 * Projects
     * Provides a showcase of Spencer's recent and most applicable projects and applications.
 * Experience
-*   * Provides a brief showcase and explanation of Spencer's prior work experiences.
+    * Provides a brief showcase and explanation of Spencer's prior work experiences.
 * Tools
     * Lists the various tools and technologies that Spencer has gained familiarity with through his various projects
         * Engineering
@@ -46,7 +46,7 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
 
 # Technologies Used
 
-* React.js
+* React
 * Javascript
 * HTML5
 * CSS3
