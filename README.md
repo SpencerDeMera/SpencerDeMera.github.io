@@ -2,6 +2,8 @@
 
 ## Live @ https://spencerdemera.github.io/
 
+<img src="src/assets/images/PortfolioSite.png">
+
 - - - -
 
 ## Layout
