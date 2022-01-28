@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.573e1c50.chunk.css",
-    "main.js": "/static/js/main.0d69a9eb.chunk.js",
-    "main.js.map": "/static/js/main.0d69a9eb.chunk.js.map",
+    "main.css": "/static/css/main.a45a36ac.chunk.css",
+    "main.js": "/static/js/main.45d88c81.chunk.js",
+    "main.js.map": "/static/js/main.45d88c81.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.206f4bf3.js",
     "runtime-main.js.map": "/static/js/runtime-main.206f4bf3.js.map",
     "static/js/2.8704cde5.chunk.js": "/static/js/2.8704cde5.chunk.js",
     "static/js/2.8704cde5.chunk.js.map": "/static/js/2.8704cde5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.573e1c50.chunk.css.map": "/static/css/main.573e1c50.chunk.css.map",
+    "static/css/main.a45a36ac.chunk.css.map": "/static/css/main.a45a36ac.chunk.css.map",
     "static/js/2.8704cde5.chunk.js.LICENSE.txt": "/static/js/2.8704cde5.chunk.js.LICENSE.txt",
     "static/media/PersonalPortfolio.16621080.png": "/static/media/PersonalPortfolio.16621080.png",
     "static/media/SpencerPortrait(2).7d82fd0d.jpg": "/static/media/SpencerPortrait(2).7d82fd0d.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.206f4bf3.js",
     "static/js/2.8704cde5.chunk.js",
-    "static/css/main.573e1c50.chunk.css",
-    "static/js/main.0d69a9eb.chunk.js"
+    "static/css/main.a45a36ac.chunk.css",
+    "static/js/main.45d88c81.chunk.js"
   ]
 }
