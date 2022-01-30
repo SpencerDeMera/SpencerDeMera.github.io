@@ -17,12 +17,14 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
 * Experience
     * Provides a brief showcase and explanation of Spencer's prior work experiences.
 * Tools
-    * Lists the various tools and technologies that Spencer has gained familiarity with through his various projects
+    * Lists the various tools and technologies that Spencer has gained familiarity with through his various projects.
         * Engineering
         * Front-End
         * Back-End
         * Design
         * Technologies
+* Courses
+   * Lists the various computer science courses I have taken at Las Positas College, Cal State Fullerton, and by myself through open university programs. 
 * Contact
     * Contains both contact form and footer of webpage
 
